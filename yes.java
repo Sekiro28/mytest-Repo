@@ -1,7 +1,7 @@
 
 class yes
 {
-	public static void main (String[] args) throws java.lang.Exception
+	public static void main (String[] args) 
 	{
 		
 		System.out.println("Welcome to DevOps Practical");
